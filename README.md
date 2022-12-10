@@ -9,4 +9,4 @@
 フォーマット
 以下のフォーマットを参照してください
 
-https://docs.google.com/spreadsheets/d/1nWLIuGg3yhI-hpYRHUWZBe7u1Dg9Su1uHNtBLk7w14c/edit#gid=0
+https://docs.google.com/spreadsheets/d/13zXgHv3rsitp6J9IpTmqtO6vCXRAxs4-T1ndubv2-z0/edit#gid=0
