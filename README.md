@@ -8,4 +8,5 @@
 
 フォーマット
 以下のフォーマットを参照してください
-https://docs.google.com/spreadsheets/d/1Y0AfGi0o-QbEyJ4yHw4TMNEXZHvd29V3BQecZIVZHAs/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1nWLIuGg3yhI-hpYRHUWZBe7u1Dg9Su1uHNtBLk7w14c/edit#gid=0
